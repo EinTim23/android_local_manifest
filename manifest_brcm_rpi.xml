@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Raspberry Pi -->
-    <project path="device/brcm/rpi3" name="EinTim23/android_device_brcm_rpi3" revision="lineage-17.1"/>
+    <project path="device/brcm/rpi3" name="EinTim23/android_device_brcm_rpi3" revision="lineage-16.0"/>
     <project path="device/brcm/rpi-common" name="lineage-rpi/android_device_brcm_rpi-common" revision="lineage-16.0"/>
     <project path="kernel/brcm/rpi" name="EinTim23/android_kernel_brcm_rpi" revision="lineage-16.0"/>
     <project path="vendor/brcm" name="EinTim23/proprietary_vendor_brcm" revision="lineage-16.0"/>
